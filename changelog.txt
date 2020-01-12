@@ -1,0 +1,51 @@
+file 1.5.2l.zip:
+-added currency parameter
+-check if currency is supported before send
+
+file 1.5.2k.zip:
+-updated credit card form: added credit card logo image, changed credit card
+expiry months from name to number, added another submit button, changed from
+alert to message div, added help popup for security code
+
+file 1.5.2j.zip:
+-added timeout setting
+-added timeout order status setting
+-added timeout and fps review redirect to pending page
+
+file 1.5.2i.zip:
+-added autocomplete="off" to needed form fields
+
+file 1.5.2h.zip:
+-added config option for fps order status
+
+file 1.5.2g.zip:
+-reformatted system error messages
+-on confirm order on a session timeout show error message
+
+file 1.5.2f.zip:
+-added credit card javascript error messages to langage file
+-added optional months fields in language file
+-fixed shipping country code for payflow FPS
+-fixed only one click allowed on confirm order 
+-cc details validation updates
+
+file 1.5.2e.zip:
+-hide password on settings page
+-added support for FPS
+
+file 1.5.2d.zip:
+-loading language files fix for opencart 1.5.5
+
+file 1.5.2c.zip:
+-small ui updates
+
+file 1.5.2b.zip:
+-small ui updates in admin  backend
+-when in test mode parameter string sent to test server is logged (with sensitive data removed)
+-security fix - removed debug logging
+upgradding:
+-unzip and replace file as normal
+-*remember to clear the error log after upgradding
+
+file 1.5.2a.zip:
+-original version
